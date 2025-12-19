@@ -12,7 +12,7 @@ function AboutCard() {
             from <span className="purple">Baku , Azerbaijan</span>.
             <br />
             I’m currently working as a{" "}
-            <span className="purple">Backend Developer.</span> at{" "}
+            <span className="purple">Backend Developer.</span> 
             <br />I hold an Integrated M.Sc. (IMSc) in{" "}
             <span className="purple">Mathematics and Computing</span> from{" "}
             <span className="purple">BIT Mesra</span>.
